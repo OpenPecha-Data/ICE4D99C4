@@ -1,0 +1,28 @@
+id: ICE4D99C4
+default_language: BO
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 14:36:36.693586+00:00
+last_modified: 2022-12-14 14:36:36.693594+00:00
+source_metadata:
+  creationtool: Olifant
+  creationtoolversion: 3.0.8.0
+  datatype: unkown
+  segtype: paragraph
+  adminlang: BO
+  srclang: BO
+  o-tmf: Olifant
+  creationdate: 20170418T102617Z
+  creationid: CloudedCat
+  changedate: 20170418T103530Z
+  changeid: CloudedCat
+  title: Toh_179-Teaching_The_Relative_and_Ultimate_Truths-v1
+bases:
+  '9593':
+    source_metadata: null
+    order: 1
+    base_file: 9593.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
